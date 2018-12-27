@@ -1,5 +1,7 @@
 <img align="right" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
 
+
+
 ## Project in Maintenance Mode Only
 
 The project is in maintenance mode, meaning, changes are driven by contributed patches.
